@@ -1,0 +1,1 @@
+﻿{"EventId":0,"level":"Information","class":"test-category","Message":"test-message","mdc":{"ScopeVal":"[scope3A;scope3B]","{OriginalFormat}":"test-message","Scope_Message_0":"Scope1:1","Scope_Message_1":"Scope2:II","Scope_Message_2":"Scope3:[scope3A;scope3B]","Scope_Message_3":"test-message"}}
